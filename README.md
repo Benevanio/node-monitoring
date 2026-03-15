@@ -110,29 +110,6 @@ O **Product Owner** foca na execução e detalhamento das funcionalidades:
 | **Incident Response** | < 5min | Tempo para primeira resposta |
 | **SLA Compliance** | 99.5% | Cumprimento dos SLAs definidos |
 
----
-
-## 🎯 **Objetivos de Negócio**
-
-### **Curto Prazo (3 meses)**
-- ✅ Implementar logging estruturado completo
-- ✅ APIs básicas de usuários funcionais
-- 🎯 Dashboard básico de métricas
-- 🎯 Sistema de alertas por email
-
-### **Médio Prazo (6 meses)**
-- 🎯 Integração com Prometheus/Grafana
-- 🎯 Métricas de negócio automatizadas
-- 🎯 Machine Learning para detecção de anomalias
-- 🎯 Mobile app para alertas críticos
-
-### **Longo Prazo (12 meses)**
-- 🎯 Multi-tenancy completo
-- 🎯 AI-powered insights
-- 🎯 Compliance com SOC2/ISO27001
-- 🎯 Marketplace de plugins
-
----
 
 ## 🚀 **Como Executar**
 
@@ -154,15 +131,6 @@ npm test
 
 ### Usuários
 - `POST /users` - Criar usuário
-- `GET /users` - Listar usuários
-- `GET /users/:id` - Buscar usuário específico
-
-### Monitoramento
-- `GET /metrics` - Métricas do sistema
-- `GET /health` - Health check
-- `GET /logs` - Logs da aplicação
-
----
 
 ## 🤝 **Contribuição**
 
@@ -182,9 +150,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 📧 **Contato**
 
-**Product Manager**: pm@monitoring.dev  
-**Product Owner**: po@monitoring.dev  
-**Tech Lead**: tech@monitoring.dev  
-
-**Documentação**: [docs.monitoring.dev](https://docs.monitoring.dev)  
-**Status Page**: [status.monitoring.dev](https://status.monitoring.dev)
+**Benevanio Santos**: benevaniosantos930@gmail.com
